@@ -1,0 +1,7 @@
+__pycache__
+/.vscode
+/.pytest_cache
+
+result.txt
+test_result_v2.txt
+test_result.txt
